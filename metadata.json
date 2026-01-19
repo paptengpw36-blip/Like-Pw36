@@ -1,0 +1,5 @@
+{
+  "name": "LIKE PW36 - Monitoring Anggaran",
+  "description": "Dashboard Monitoring Anggaran Real-time terhubung dengan Google Sheets, menampilkan ringkasan pagu, penyerapan MAK, dan analisis bidang.",
+  "requestFramePermissions": []
+}
